@@ -12,3 +12,10 @@ Let $\Theta$ be a finite-dimensional parameter space and G~DP(M,G_0) such that $
 f_G(y)=\int f(y\gv\theta)\ dG(\theta)
 \end{equation}
 ](https://render.githubusercontent.com/render/math?math=%5Cdisplaystyle+%5Cbegin%7Bequation%7D%0Af_G%28y%29%3D%5Cint+f%28y%5Cgv%5Ctheta%29%5C+dG%28%5Ctheta%29%0A%5Cend%7Bequation%7D%0A)
+
+
+<img src=
+"https://render.githubusercontent.com/render/math?math=%5Ctextstyle++%5Cbegin%7Bequation%7D%0AG+%7EDP%28M%2CG_0%29%0A%5Cend%7Bequation%7D" 
+alt=" \begin{equation}
+G ~DP(M,G_0)
+\end{equation}">
