@@ -6,8 +6,9 @@ This repository stores all the experimental results obtained using the new semi-
 
 # Dirichlet Process mixture models and pattern analysis
 
-Let $\Theta$ be a finite-dimensional parameter space and $G\simDP(M,G_0)$ such that $M\in\mathhb{R}$ and $G_0$ be a probability measure defined on $\Theta$. A Dirichlet Process Mixture Model is p.d.f. described as:
+Let $\Theta$ be a finite-dimensional parameter space and G~DP(M,G_0) such that $M\in\mathhb{R}$ and $G_0$ be a probability measure defined on $\Theta$. A Dirichlet Process Mixture Model is p.d.f. described as:
 
-\begin{equation}\label{DPMM}
-f_G(y)=\int f(y|\theta)\ dG(\theta)
+![\begin{equation}
+f_G(y)=\int f(y\gv\theta)\ dG(\theta)
 \end{equation}
+](https://render.githubusercontent.com/render/math?math=%5Cdisplaystyle+%5Cbegin%7Bequation%7D%0Af_G%28y%29%3D%5Cint+f%28y%5Cgv%5Ctheta%29%5C+dG%28%5Ctheta%29%0A%5Cend%7Bequation%7D%0A)
